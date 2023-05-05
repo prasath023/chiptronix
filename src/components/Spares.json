@@ -1,0 +1,45 @@
+{
+    "data": [{
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWCZR0hPy6X3uPtJkDNKwgpcOhrFrFaLb-g&usqp=CAU",
+            "name": "Displays "
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5agz6BSH5LDOxb8nDcL8yUj9B4t_2W56TA&usqp=CAU",
+            "name": "Keyboards "
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qqmBtOcMlP7nTFrZI4z3i7JNMjDO3iGraw&usqp=CAU",
+            "name": "Laptop Batteries "
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFsI6GEIuA09Sx7dZ2Q_cqTtGdh395OPY2TA&usqp=CAU",
+            "name": "Laptop Panels "
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_E89wcZ76YHEGAztRw4ctihW_P6ZiA_7_wQ&usqp=CAU",
+            "name": "Chargers "
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeWCm-9IV718EmVAbjRgHeuZTn90oQtUX5w&usqp=CAU",
+            "name": "Motherboards "
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKMKfVZLq7rYo7vNoiY475SBCYpOsP4M8sxg&usqp=CAU",
+            "name": " Hard Disks"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3zQw6d6Bx-Fn8fQXT7f59T3QGtLbM2Lv9g&usqp=CAU",
+            "name": " SSD"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGpteBj1QsbMuFEip9mQEFlfOSUmJJ0w9qQ&usqp=CAU",
+            "name": "RAM "
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRldTv7LwSELhiJM1R31RuRQdL-sErx6Qqezg&usqp=CAU",
+            "name": "Cables "
+        }
+
+
+    ]
+}
